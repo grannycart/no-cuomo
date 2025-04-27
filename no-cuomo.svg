@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="203.44853mm"
-   height="69.570381mm"
-   viewBox="0 0 203.44853 69.570381"
+   width="209.37605mm"
+   height="69.882355mm"
+   viewBox="0 0 209.37605 69.882355"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
@@ -16,7 +16,7 @@
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#505050"
-     bordercolor="#ffffff"
+     bordercolor="#000000"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="0.84809203"
      inkscape:cx="270.01787"
-     inkscape:cy="561.25984"
+     inkscape:cy="234.64435"
      inkscape:window-width="1910"
      inkscape:window-height="1165"
      inkscape:window-x="0"
@@ -63,6 +63,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:5.48387;stroke-linecap:round"
+       id="rect3"
+       width="219.31828"
+       height="77.681725"
+       x="-5.6155462"
+       y="-4.0556722" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-224.62185,42.116597)"
@@ -70,15 +77,15 @@
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Heavy';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);fill:#ffffff;stroke-width:20;stroke-linecap:round"><tspan
          x="205.7623"
          y="181.51492"
-         id="tspan5">No Albany hand-me-downs for NYC</tspan></text>
+         id="tspan1">No Albany hand-me-downs for NYC</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-25.651423,-25.485228)"
+       transform="matrix(0.26458333,0,0,0.26458333,-22.598831,-25.686695)"
        id="text1-1"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Heavy';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-9);fill:#ffffff;stroke-width:20;stroke-linecap:round"><tspan
-         x="154.13031"
-         y="181.51492"
-         id="tspan6">NYC doesn't need Albany hand-me-downs</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:37.3333px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Heavy';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-9);fill:#2c2c2c;fill-opacity:1;stroke-width:20;stroke-linecap:round"><tspan
+         x="99.737314"
+         y="185.82695"
+         id="tspan2">NYC doesn't need Albany hand-me-downs</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-227.11765,-33.693278)"
@@ -86,18 +93,18 @@
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Heavy';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#ffffff;stroke-width:20;stroke-linecap:round"><tspan
          x="213.99103"
          y="563.4139"
-         id="tspan8"><tspan
+         id="tspan4"><tspan
            style="fill:#ff0007"
-           id="tspan7">NO CUOMO</tspan></tspan></text>
+           id="tspan3">NO CUOMO</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.31418456,0,0,0.31418456,-53.386392,-126.9966)"
+       transform="matrix(0.36720657,0,0,0.36720657,-76.062477,-154.90018)"
        id="text2-1"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Heavy';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2-5);fill:#ffffff;stroke-width:20;stroke-linecap:round"><tspan
          x="213.99103"
          y="563.4139"
-         id="tspan10"><tspan
+         id="tspan6"><tspan
            style="fill:#ff0007"
-           id="tspan9">NO CUOMO</tspan></tspan></text>
+           id="tspan5">NO CUOMO</tspan></tspan></text>
   </g>
 </svg>
