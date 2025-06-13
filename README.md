@@ -1,7 +1,7 @@
 # no-cuomo
 
 NO ALBANY HAND-ME-DOWNS FOR NYC
-NO CUOMO
+DON'T RANK CUOMO
 
 ## To edit
 * Use Inkscape

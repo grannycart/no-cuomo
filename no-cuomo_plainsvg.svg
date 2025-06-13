@@ -15,14 +15,20 @@
        x="89.612915"
        y="155.64349"
        width="781.75476"
-       height="116.73261"
+       height="147.5818"
        id="rect1-9" />
     <rect
        x="185.12141"
        y="485.79633"
-       width="615.49927"
-       height="142.67319"
+       width="504.36044"
+       height="57.366631"
        id="rect2-5" />
+    <rect
+       x="89.612915"
+       y="155.64349"
+       width="781.75476"
+       height="116.73261"
+       id="rect1-9-7" />
   </defs>
   <g
      id="layer1"
@@ -36,22 +42,38 @@
        y="-4.0556722" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-22.069664,-26.215862)"
+       transform="matrix(0.26458333,0,0,0.26458333,-23.036632,-36.623266)"
        id="text1-1"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:37.3333px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Heavy';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-9);display:inline;fill:#2c2c2c;fill-opacity:1;stroke-width:20;stroke-linecap:round"><tspan
-         x="99.737314"
-         y="185.82695"
-         id="tspan1">NYC doesn't need Albany hand-me-downs</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:64px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Heavy';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-9);display:inline;fill:#ff0007;fill-opacity:1;stroke-width:20;stroke-linecap:round"><tspan
+         x="112.82034"
+         y="207.38726"
+         id="tspan6"><tspan
+           style="letter-spacing:0.77px"
+           id="tspan4">We don't need Albany's</tspan><tspan
+           dx="0.77001953"
+           id="tspan5">
+</tspan></tspan><tspan
+         x="112.81029"
+         y="271.38726"
+         id="tspan9"><tspan
+           style="letter-spacing:-0.72px"
+           id="tspan7">hand-me-downs in NYC!</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.36720657,0,0,0.36720657,-75.53331,-155.42935)"
+       transform="matrix(0.26458333,0,0,0.26458333,-22.856717,-1.1427507)"
+       id="text1-1-5"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Heavy';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-9-7);display:inline;fill:#2c2c2c;fill-opacity:1;stroke-width:20;stroke-linecap:round"><tspan
+         x="367.34229"
+         y="168.57875"
+         id="tspan10">(No sloppy seconds for NYC!)</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.36720657,0,0,0.36720657,-56.571675,-130.19842)"
        id="text2-1"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Heavy';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2-5);display:inline;fill:#ffffff;stroke-width:20;stroke-linecap:round"><tspan
-         x="213.99103"
-         y="563.4139"
-         id="tspan3"><tspan
-           style="fill:#ff0007"
-           id="tspan2">NO CUOMO</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:46.1139px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Heavy';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2-5);display:inline;fill:#2c2c2c;fill-opacity:1;stroke-width:20;stroke-linecap:round"><tspan
+         x="190.71917"
+         y="523.08045"
+         id="tspan11">DON'T RANK CUOMO</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.00736;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect4"
