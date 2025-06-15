@@ -9,4 +9,7 @@ DON'T RANK CUOMO
     * https://github.com/uswds/public-sans
     * Install on Arch linux: https://aur.archlinux.org/packages/otf-public-sans
 
+## License:
+* MIT
+* See: [LICENSE](./LICENSE)
 
